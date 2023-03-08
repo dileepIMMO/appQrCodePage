@@ -40,7 +40,7 @@ const Redirect = () => {
     }
 
     if (/iPad|iPhone|iPod/.test(userAgent) && !window.MSStream) {
-      window.location.replace("https://apps.apple.com/app/id/1541084292");
+      window.location.replace("https://apps.apple.com/app/id/1643489297");
     }
   };
 
