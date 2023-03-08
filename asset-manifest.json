@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.js": "/dileepIMMO/appQrCodePage/static/js/main.13ec30db.js",
+    "static/media/appstore.png": "/dileepIMMO/appQrCodePage/static/media/appstore.70a9f2abf586fdae3b07.png",
+    "static/media/playstore.png": "/dileepIMMO/appQrCodePage/static/media/playstore.4c1bd7a2e2cd9e761775.png",
+    "static/media/icon.png": "/dileepIMMO/appQrCodePage/static/media/icon.e47cf0e1fe836893fdb7.png",
+    "index.html": "/dileepIMMO/appQrCodePage/index.html",
+    "main.13ec30db.js.map": "/dileepIMMO/appQrCodePage/static/js/main.13ec30db.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.13ec30db.js"
+  ]
+}
