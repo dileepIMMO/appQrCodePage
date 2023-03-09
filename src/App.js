@@ -26,7 +26,6 @@ const useStyles = makeStyles({
 
 const Redirect = () => {
   const classes = useStyles();
-  const [android, setAndroid] = useState(true);
 
   useEffect(() => {
     getMobileOperatingSystem();
@@ -36,7 +35,8 @@ const Redirect = () => {
     var userAgent = navigator.userAgent || navigator.vendor || window.opera;
 
     if (/android/i.test(userAgent)) {
-      setAndroid(true);
+      window.location.replace("https://play.google.com/store/apps/details?id=capital.immo.residentapp&pli=1");
+
     }
 
     if (/iPad|iPhone|iPod/.test(userAgent) && !window.MSStream) {
@@ -56,7 +56,7 @@ const Redirect = () => {
   };
   return (
     <div className={classes.root}>
-      {android ? (
+     
         <Grid
           className={classes.grid}
           container
@@ -80,9 +80,7 @@ const Redirect = () => {
             <Paper component="img" elevation={0} src={appStoreButton}  style={{height:81,width:251}} onClick={handleIOS} />
           </Grid>
         </Grid>
-      ) : (
-        <p>Redirect</p>
-      )}
+   
     </div>
   );
 };
