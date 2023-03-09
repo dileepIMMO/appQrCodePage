@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.js": "/appQrCodePage/static/js/main.9b042042.chunk.js",
-    "main.js.map": "/appQrCodePage/static/js/main.9b042042.chunk.js.map",
+    "main.js": "/appQrCodePage/static/js/main.0c20abe1.chunk.js",
+    "main.js.map": "/appQrCodePage/static/js/main.0c20abe1.chunk.js.map",
     "runtime-main.js": "/appQrCodePage/static/js/runtime-main.73ef6c80.js",
     "runtime-main.js.map": "/appQrCodePage/static/js/runtime-main.73ef6c80.js.map",
-    "static/js/2.5ae3cd28.chunk.js": "/appQrCodePage/static/js/2.5ae3cd28.chunk.js",
-    "static/js/2.5ae3cd28.chunk.js.map": "/appQrCodePage/static/js/2.5ae3cd28.chunk.js.map",
+    "static/js/2.6a4b73c8.chunk.js": "/appQrCodePage/static/js/2.6a4b73c8.chunk.js",
+    "static/js/2.6a4b73c8.chunk.js.map": "/appQrCodePage/static/js/2.6a4b73c8.chunk.js.map",
     "index.html": "/appQrCodePage/index.html",
-    "static/js/2.5ae3cd28.chunk.js.LICENSE.txt": "/appQrCodePage/static/js/2.5ae3cd28.chunk.js.LICENSE.txt",
+    "static/js/2.6a4b73c8.chunk.js.LICENSE.txt": "/appQrCodePage/static/js/2.6a4b73c8.chunk.js.LICENSE.txt",
     "static/media/appstore.70a9f2ab.png": "/appQrCodePage/static/media/appstore.70a9f2ab.png",
     "static/media/icon.e47cf0e1.png": "/appQrCodePage/static/media/icon.e47cf0e1.png",
     "static/media/playstore.4c1bd7a2.png": "/appQrCodePage/static/media/playstore.4c1bd7a2.png"
   },
   "entrypoints": [
     "static/js/runtime-main.73ef6c80.js",
-    "static/js/2.5ae3cd28.chunk.js",
-    "static/js/main.9b042042.chunk.js"
+    "static/js/2.6a4b73c8.chunk.js",
+    "static/js/main.0c20abe1.chunk.js"
   ]
 }
